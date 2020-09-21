@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost/Insurance_App_Project",
+  "jwtSecret": "mysecrettoken"
+}
